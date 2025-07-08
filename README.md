@@ -31,7 +31,7 @@ player-reid-cross-camera/
 
 ## 🚀 How to Run
 
-### ⚙️ 1. Set up virtual environment (Windows)
+##⚙️ 1. Set up virtual environment (Windows)
 ```bash
 python -m venv cleanenv
 .\cleanenv\Scripts\activate
